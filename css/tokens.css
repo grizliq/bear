@@ -1,0 +1,23 @@
+:root {
+  --lb-c-2589FF: #2589FF;
+  --lb-c-25475C: #25475C;
+  --lb-c-111117: #111117;
+  --lb-c-FFFFFF: #FFFFFF;
+  --lb-c-5A7EA8: #5A7EA8;
+  --lb-c-2A7AD9: #2A7AD9;
+  --lb-c-262D36: #262D36;
+  --lb-c-06060C: #06060C;
+  --lb-c-09091C: #06060C;
+
+  --lb-font-display: "Benzin", "Arial Black", Arial, sans-serif;
+  --lb-font-title: "Benzin", Arial, sans-serif;
+  --lb-font-body: "Benzin", Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+  font-family: "Benzin";
+  src: url("../assets/fonts/BenzinBold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
